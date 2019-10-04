@@ -1,4 +1,4 @@
-package echo.demo;
+package com.echo.demo;
 
 import java.util.Arrays;
 
